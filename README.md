@@ -37,4 +37,6 @@ Visit `http://127.0.0.1:8000/docs` to test the prediction endpoint.
 
 ## Data files
 
-The original CSV datasets are not included because the requested GitHub layout does not contain a `data/` directory. To rerun the data-processing or training scripts, keep the CSV files locally and update their input paths as appropriate.
+## Dataset
+
+The dataset files are not included in this repository. To run the data-cleaning or model-training scripts, download the Maternal Health Risk dataset and update the file paths in the relevant scripts.
